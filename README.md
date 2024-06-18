@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil
 
-![Samurai Champloo](https://github.com/kaishin/Gifu/blob/master/Tests/Images/mugen.gif?raw=true)
+<img src="https://github.com/kaishin/Gifu/blob/master/Tests/Images/mugen.gif?raw=true" width="360" height="auto">
 
 Aqui você encontrará meus projetos e contribuições para a comunidade de código aberto.
 
