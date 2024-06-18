@@ -4,6 +4,10 @@
 
 Aqui você encontrará meus projetos e contribuições para a comunidade de código aberto.
 
+## Contato
+
+Você pode entrar em contato comigo pelo e-mail [jones.souza20@hotmail.com] ou com mensagens diretas no meu Linkedin (o link estará no perfil)
+
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
 
 - Nome: Jones Souza de Oliveira
