@@ -12,7 +12,7 @@ Linkedin www.linkedin.com/in/jones-souza/
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
 
 - Nome: Jones Souza de Oliveira
-- Idade: 24 anos
+- Idade: 25 anos
 - Ciência da Computação 2° Semestre
 - Desenvolvedor Front-End
 - Foco em pessoas que necessitam de acessibilidade
