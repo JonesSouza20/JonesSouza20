@@ -50,10 +50,10 @@ Linkedin www.linkedin.com/in/jones-souza/
 
 ### Outros
 
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="100"> Markdown
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="100" height="40"> Markdown
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/480px-Oracle_logo.svg.png" alt="Oracle" width="90" height="40"> Oracle
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/480px-Oracle_logo.svg.png" alt="Oracle" width="90" height="35"> Oracle
 <br>
-<img src="https://i.pinimg.com/564x/7e/ea/54/7eea54df0dd614c399c2288ffc5bcbd4.jpg" alt="MongoDB" width="90" height="40"> MongoDB
+<img src="https://i.pinimg.com/564x/7e/ea/54/7eea54df0dd614c399c2288ffc5bcbd4.jpg" alt="MongoDB" width="90" height="35"> MongoDB
   
 <div align="center">  
