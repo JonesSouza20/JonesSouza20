@@ -30,13 +30,13 @@ Linkedin www.linkedin.com/in/jones-souza/
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30"> CSS
 <br>
-<img src="https://i.pinimg.com/564x/9b/4e/e0/9b4ee057076232fb57c48cf80947f8a7.jpg" alt="React" width="40" height="40"> React
+<img src="https://i.pinimg.com/564x/9b/4e/e0/9b4ee057076232fb57c48cf80947f8a7.jpg" alt="React" width="40" height="90"> React
 <br>
-<img src="https://i.pinimg.com/564x/4a/07/48/4a0748d729ce3f3b2d149cb7808c429f.jpg" alt="Vue.js" width="40" height="40"> Vue.js
+<img src="https://i.pinimg.com/564x/4a/07/48/4a0748d729ce3f3b2d149cb7808c429f.jpg" alt="Vue.js" width="40" height="90"> Vue.js
 <br>
-<img src="https://i.pinimg.com/736x/e3/a2/49/e3a2498d2fabe3948c98e784f7f51808.jpg" alt="Node.js" width="40" height="40"> Node.js
+<img src="https://i.pinimg.com/736x/e3/a2/49/e3a2498d2fabe3948c98e784f7f51808.jpg" alt="Node.js" width="40" height="90"> Node.js
 <br>
-<img src="https://i.pinimg.com/564x/5d/09/32/5d0932d4dd17c926806635893260205e.jpg" alt="Express.js" width="40" height="40"> Express.js
+<img src="https://i.pinimg.com/564x/5d/09/32/5d0932d4dd17c926806635893260205e.jpg" alt="Express.js" width="40" height="90"> Express.js
 
 ### Ferramentas
 
@@ -52,8 +52,8 @@ Linkedin www.linkedin.com/in/jones-souza/
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="100"> Markdown
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/480px-Oracle_logo.svg.png" alt="Oracle" width="20" height="30"> Oracle
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/480px-Oracle_logo.svg.png" alt="Oracle" width="40" height="90"> Oracle
 <br>
-<img src="https://i.pinimg.com/564x/7e/ea/54/7eea54df0dd614c399c2288ffc5bcbd4.jpg" alt="MongoDB" width="30" height="40"> MongoDB
+<img src="https://i.pinimg.com/564x/7e/ea/54/7eea54df0dd614c399c2288ffc5bcbd4.jpg" alt="MongoDB" width="40" height="90"> MongoDB
   
 <div align="center">  
