@@ -11,11 +11,12 @@ Linkedin linkedin.com/in/jones-souza/
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
 
-🚀 Estudante de programação com uma paixão imensa pelo backend. Amo transformar complexidade em simplicidade através de código limpo e eficiente. Sempre em busca de novos desafios e oportunidades para aprender e crescer. / Programming student with a huge passion for backend. I love transforming complexity into simplicity through clean and efficient code. Always looking for new challenges and opportunities to learn and grow. <hr>
-🌟 Adoro mexer com tecnologias como Node.js, Express, SQL, PostgresSQL e MongoDB. / I love working with technologies like Node.js, Express, SQL, PostgresSQL and MongoDB. <hr>
-🎯 Motivado a criar soluções robustas e escaláveis que facilitem a vida das pessoas. / Motivated to create robust and scalable solutions that make people's lives easier. <hr>
-📚 Sempre de olho nas tendências mais recentes em desenvolvimento backend e nas melhores práticas de arquitetura de software. / Always keeping an eye on the latest trends in backend development and software architecture best practices. <hr>
-🔧 Curto trabalhar em equipe e compartilhar conhecimento com a comunidade. / I enjoy working in a team and sharing knowledge with the community. <hr>
+🚀 Estudante de programação com uma paixão imensa pelo backend. Amo transformar complexidade em simplicidade através de código limpo e eficiente. Sempre em busca de novos desafios e oportunidades para aprender e crescer. / Programming student with a huge passion for backend. I love transforming complexity into simplicity through clean and efficient code. Always looking for new challenges and opportunities to learn and grow. <br><br>
+🌟 Adoro mexer com tecnologias como Node.js, Express, SQL, PostgresSQL e MongoDB. / I love working with technologies like Node.js, Express, SQL, PostgresSQL and MongoDB. <br><br>
+🎯 Motivado a criar soluções robustas e escaláveis que facilitem a vida das pessoas. / Motivated to create robust and scalable solutions that make people's lives easier. <br><br>
+📚 Sempre de olho nas tendências mais recentes em desenvolvimento backend e nas melhores práticas de arquitetura de software. / Always keeping an eye on the latest trends in backend development and software architecture best practices. <br><br>
+🔧 Curto trabalhar em equipe e compartilhar conhecimento com a comunidade. / I enjoy working in a team and sharing knowledge with the community. <br><br>
+<hr>
 
 - Nome: Jones Souza de Oliveira
 - Idade: 25 anos
