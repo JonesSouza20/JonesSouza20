@@ -13,7 +13,7 @@ Linkedin www.linkedin.com/in/jones-souza/
 
 - Nome: Jones Souza de Oliveira
 - Idade: 25 anos
-- Ciência da Computação 2° Semestre
+- Ciência da Computação 3° Semestre
 - Desenvolvedor
 - Foco em pessoas que necessitam de acessibilidade / Focus on people who need accessibility
 - São Paulo, SP - Brasil
