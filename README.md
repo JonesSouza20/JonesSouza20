@@ -18,11 +18,11 @@ Linkedin linkedin.com/in/jones-souza/
 🔧 Curto trabalhar em equipe e compartilhar conhecimento com a comunidade. / I enjoy working in a team and sharing knowledge with the community. <br><br>
 <hr>
 
-- Nome: Jones Souza de Oliveira
-- Idade: 25 anos
-- Ciência da Computação 3° Semestre
-- Desenvolvedor
-- São Paulo, SP - Brasil
+- Name: Jones Souza de Oliveira
+- Age: 25 anos
+- Computer Science 3rd Semester
+- Backend Developer
+- São Paulo, SP - Brazil
 
 <hr>
 
